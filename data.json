@@ -1,0 +1,8 @@
+{
+  "project": "n8n-github-test",
+  "owner": "YOUR_GITHUB_USERNAME",
+  "items": [
+    { "id": 1, "name": "Test item A", "status": "open" },
+    { "id": 2, "name": "Test item B", "status": "closed" }
+  ]
+}
