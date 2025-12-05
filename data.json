@@ -1,6 +1,6 @@
 {
   "project": "n8n-github-test",
-  "owner": "YOUR_GITHUB_USERNAME",
+  "owner": "binarybuilder88-mhe",
   "items": [
     { "id": 1, "name": "Test item A", "status": "open" },
     { "id": 2, "name": "Test item B", "status": "closed" }
